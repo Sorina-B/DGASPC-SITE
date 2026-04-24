@@ -15,10 +15,15 @@ Link to old website: https://www.dgaspcmures.ro/home.html
 - **Contact & Emergency Hub:** A centralized contact page featuring a direct messaging form.
 
 ## Screenshots
+
 <img width="531" height="1600" alt="WhatsApp Image 2026-04-16 at 12 06 27" src="https://github.com/user-attachments/assets/1dabc3b1-e228-4958-89ea-68ba489415ac" />
+
 <img width="862" height="1600" alt="WhatsApp Image 2026-04-16 at 12 07 00" src="https://github.com/user-attachments/assets/0ff82a87-5065-4ee0-9155-847d75b09eea" />
+
 <img width="840" height="1600" alt="WhatsApp Image 2026-04-16 at 12 07 12" src="https://github.com/user-attachments/assets/7809da11-bd54-4a4a-877f-2dfb2a3cbe9c" />
+
 <img width="1206" height="1600" alt="WhatsApp Image 2026-04-16 at 12 07 21" src="https://github.com/user-attachments/assets/93e8f584-3858-4fdc-80af-0e96d9823136" />
+
 <img width="720" height="1600" alt="WhatsApp Image 2026-04-16 at 12 07 30" src="https://github.com/user-attachments/assets/ec6a7129-95b0-4650-9889-e1b0fa10d5de" />
 
 ## Technologies Used
