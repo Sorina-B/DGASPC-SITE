@@ -8,11 +8,11 @@ This website is a complete modernization of the old 2006 DGASPC Mures (General D
 Link to old website: https://www.dgaspcmures.ro/home.html
 
 ## Features
--**Responsive & Modern UI:** A clean design that works across desktop and mobile devices;
--**Document & Forms Library:** A dedicated repository where users can easily find, download, and learn how to fill out necessary paperwork (e.g., handicap evaluation forms, child allowance dossiers);
--**Service Directory:** Categorized quick-access portals for distinct social services, including Child Protection, Adult Protection, Persons with Disabilities, and Maternal Assistance.
--**News & Announcements Portal:** A dynamic blog-style section for public communications, press releases, job openings, and community events;
--**Contact & Emergency Hub:** A centralized contact page featuring a direct messaging form.
+- **Responsive & Modern UI:** A clean design that works across desktop and mobile devices;
+- **Document & Forms Library:** A dedicated repository where users can easily find, download, and learn how to fill out necessary paperwork (e.g., handicap evaluation forms, child allowance dossiers);
+- **Service Directory:** Categorized quick-access portals for distinct social services, including Child Protection, Adult Protection, Persons with Disabilities, and Maternal Assistance.
+- **News & Announcements Portal:** A dynamic blog-style section for public communications, press releases, job openings, and community events;
+- **Contact & Emergency Hub:** A centralized contact page featuring a direct messaging form.
 
 ## Screenshots
 
